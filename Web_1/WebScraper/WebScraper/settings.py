@@ -96,6 +96,6 @@ FEED_EXPORT_ENCODING = "utf-8"
 
 
 FEEDS = {
-    'data.jsonl': {'format': 'jsonlines', 'overwrite': False}
+    'data.jsonl': {'format': 'jsonlines', 'overwrite': True}
 }
 
